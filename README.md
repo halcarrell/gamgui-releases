@@ -1,6 +1,6 @@
-# Companion app to GAM / Google DWorkspace - Release Downloads
+# Companion app to GAM / Google Workspace - Release Downloads
 
-This repository contains release files for GAM7 Admin.
+This repository contains release files for Companion app to GAM / Google Workspace.
 
 ## Download Latest Version
 

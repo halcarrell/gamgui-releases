@@ -8,7 +8,7 @@ private repository; this repo hosts **signed, notarized release artifacts only**
 
 **[Download GAM Companion (.dmg)](https://github.com/halcarrell/gamgui-releases/releases/latest/download/GAM7-Admin-Latest.dmg)** — this link always points to the newest release.
 
-- **Latest version:** `v2.0.8` (2026-06-06)
+- **Latest version:** `v2.0.10` (2026-06-14)
 - macOS universal (Apple Silicon + Intel), signed & notarized (Developer ID: Hal Carrell).
 - Already installed? The app updates itself via the built-in updater.
 
@@ -25,7 +25,8 @@ Per-version notes are in **[CHANGELOG.md](CHANGELOG.md)**.
 
 | Version | Date | |
 |---------|------|---|
-| [v2.0.8](https://github.com/halcarrell/gamgui-releases/releases/tag/v2.0.8) | 2026-06-06 | latest |
+| [v2.0.10](https://github.com/halcarrell/gamgui-releases/releases/tag/v2.0.10) | 2026-06-14 | latest |
+| [v2.0.8](https://github.com/halcarrell/gamgui-releases/releases/tag/v2.0.8) | 2026-06-06 |  |
 | [v2.0.7](https://github.com/halcarrell/gamgui-releases/releases/tag/v2.0.7) | 2026-05-30 |  |
 | [v2.0.6](https://github.com/halcarrell/gamgui-releases/releases/tag/v2.0.6) | 2026-05-30 |  |
 | [v2.0.5](https://github.com/halcarrell/gamgui-releases/releases/tag/v2.0.5) | 2026-05-30 |  |

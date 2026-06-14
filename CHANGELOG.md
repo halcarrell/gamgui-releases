@@ -1,5 +1,21 @@
 # Changelog
 
+## v2.0.10 — 2026-06-14
+
+## GAM & Google Workspace Companion — v2.0.10
+
+### What's new
+- **See when you're signed in with Google.** The sidebar now shows a clear "✓ Signed in with Google · 15 saved commands" indicator, with a **Sign out** link, for free users who sign in. Previously there was no way to tell you were signed in (or to sign out).
+- **Free Google sign-in unlocks more.** Signing in with Google on the free tier raises your saved Custom Commands from **5 → 15** — no purchase required. A gentle, dismissible nudge points this out (with a "Don't ask again" option).
+- **More reliable sign-in detection.** Your signed-in status is now recognized even if local settings get cleared, so the bonus sticks.
+
+### Install / update
+1. Download the DMG below (or let the app auto‑update).
+2. Open the DMG and drag the app to Applications.
+3. Launch it. (Signed and notarized by Apple.)
+
+Requires macOS 10.15+ and GAM 7+ installed separately. Not a Google product.
+
 ## v2.0.8 — 2026-06-06
 
 ## GAM Companion v2.0.8

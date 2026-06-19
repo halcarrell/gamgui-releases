@@ -1,5 +1,21 @@
 # Changelog
 
+## v2.0.11 — 2026-06-19
+
+## GAM & Google Workspace Companion — v2.0.11
+
+### What's new
+- **The app now speaks 10 languages.** Added **Hindi** and **Filipino**, joining English, Spanish, French, German, Japanese, Portuguese, Chinese, and Korean. The command catalog, Quick Actions, Premium Workflows, Help & Support, and the upgrade screen are all translated.
+- **Fixed the "Pricing" link on the upgrade screen.** The "View full pricing & FAQ" link on the "Do more with GAM GUI" screen was broken — it now takes you straight to the pricing page.
+- **More reliable Quick Actions.** Actions that legitimately return zero results (for example, an audit with nothing to report) no longer show a confusing error — they now clearly report **"No matching items found."** We also added a confirmation prompt before the **Forward Threads** action runs.
+
+### Install / update
+1. Download the DMG below (or let the app auto‑update).
+2. Open the DMG and drag the app to Applications.
+3. Launch it. (Signed and notarized by Apple.)
+
+Requires macOS 10.15+ and GAM 7+ installed separately. Not a Google product.
+
 ## v2.0.10 — 2026-06-14
 
 ## GAM & Google Workspace Companion — v2.0.10

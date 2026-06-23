@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.12 — 2026-06-23
+
+## GAM7 Admin v2.0.12
+
+### Installation
+1. Download the DMG file below
+2. Open the DMG
+3. Drag the app to Applications
+4. Launch the app
+
+### Changes
+See the main repository for detailed changelog.
+
+---
+
+**Note:** This repository only contains release files. Source code and documentation are in the private repository.
+
 ## v2.0.11 — 2026-06-19
 
 ## GAM & Google Workspace Companion — v2.0.11

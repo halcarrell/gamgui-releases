@@ -1,5 +1,28 @@
 # Changelog
 
+## v2.0.14 — 2026-06-29
+
+## GAM & Google Workspace Companion — v2.0.14
+
+### What's new
+
+- **Premium Files overhaul** — Newest-first lists, search on every tab, date filters on Google Sheets, scheduled-run hint (outputs often land in **Log Files**), load-more pagination, Drive folder + label columns.
+- **Scheduled workflows UX** — Panel at top of Premium Workflows; last-run status, Run now, expandable log, deep-link to Premium Files with the right tab.
+- **AI Assistant** — GAM parser rejects invalid field choices before a misleading live test; shows `expected_choices`; paste-to-validate without AI quota; workflow step selection, run selected, save-as-chain.
+- **Custom Commands** — Tag folders, bulk tag rename, filters (All / Chains / From AI / Manual), favorites sidebar, G-Function grouping.
+- **Google Sheets registry** — Workflow source, `tdtitle` labels, optional Drive folder display name from Configuration.
+- **Product guardian** — Strategy reference, daily six-pillar review agent, always-on Cursor rule, automation hooks.
+- **i18n** — Full locale sweep (10 languages) for Premium Files, AI, scheduler, and Custom Commands keys.
+- **Marketing accuracy** — `PRODUCT_DESCRIPTIONS.md` clarifies Enterprise **5 concurrent seat licenses** (activation model, not shared workspace).
+
+### Install / update
+
+1. Download the DMG below (or let the app auto-update).
+2. Open the DMG and drag the app to Applications.
+3. Launch it. (Signed and notarized by Apple.)
+
+Requires macOS 10.15+ and GAM 7+ installed separately. Not a Google product.
+
 ## v2.0.13 — 2026-06-26
 
 ## GAM7 Admin v2.0.13
